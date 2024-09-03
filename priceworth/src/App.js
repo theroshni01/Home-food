@@ -11,7 +11,7 @@ function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   useEffect(() => {
-      axios.get('http://localhost:3001/user', { withCredentials: true })
+      axios.get(process.env.REACT_APP_URL+'/user', { withCredentials: true })
           .then(response => {
               if (response.data.user) {
                   setIsLoggedIn(true);
