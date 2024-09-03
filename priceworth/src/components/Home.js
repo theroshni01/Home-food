@@ -244,7 +244,9 @@ function Home() {
             </div>
           </div>
       </div>
-
+	  </div>
+	  
+<div class="box-container">
       <div class="row">
         <div class="col-sm-4 mb-3 mb-sm-0">
         <div class="card p-3 rounded">
@@ -292,7 +294,8 @@ function Home() {
             </div>
           </div>
       </div>
-
+	  </div>
+	  <div class="box-container">
       <div class="row">
         <div class="col-sm-4 mb-3 mb-sm-0">
         <div class="card p-3 rounded">
