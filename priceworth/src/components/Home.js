@@ -194,50 +194,13 @@ function Home() {
 		</div>
     </section>
     <section class="features" id="products">
-	
-        {/* <h1 class="heading"> our <span>Plans</span> </h1> */}
-        <h1 class="heading"> Only <span>Break Fast</span> </h1>
+	<h1 class="heading"> our <span>Plans</span> </h1> 
         <div class="box-container">
-
-       
-        {/* <div class="box">
-           <h3>All Days(7 Days)</h3>
-            <p><ul>
-                <li>3 Meals - 9750 Rs.</li>
-                <li>Only Break fast - 3000 Rs.</li>
-                <li>Only Lunch - 3750 Rs.</li>
-                <li>Only Dinner - 3000 Rs.</li>
-                <li>Note: Monthly subscription per head</li>
-            </ul></p>
-            <a href="#" class="btn">Subscribe now</a>
-        </div>
-        <div class="box">
-            <h3>WeekDays(5 Days)</h3>
-            <p><ul>
-                <li>3 Meals - 6500 Rs.</li>
-                <li>Only Break fast - 2000 Rs.</li>
-                <li>Only Lunch - 2500 Rs.</li>
-                <li>Only Dinner - 2000 Rs.</li>
-                <li>Note: Monthly subscription per head</li>
-            </ul></p>
-            <a href="#" class="btn">Subscribe now</a>
-        </div>
-        <div class="box">
-            <h3>Weekends(2 Days)</h3>
-            <p><ul>
-                <li>3 Meals - 3250 Rs.</li>
-                <li>Only Break fast - 1000 Rs.</li>
-                <li>Only Lunch - 1250 Rs.</li>
-                <li>Only Dinner - 1000 Rs.</li>
-                <li>Note: Monthly subscription per head</li>
-            </ul></p>
-            <a href="#" class="btn">Subscribe now</a>
-        </div> */}
 
       <div class="row">
         <div class="col-sm-4 mb-3 mb-sm-0">
-          <div class="card">
-            <div class="card-body">
+        <div class="card p-3 rounded">
+          <div class="card-body d-flex flex-column">
 	      <h5 class="card-title">Only Breakfast </h5>
               <h5 class="card-title">Weekdays(5 Days) </h5>
               <p class="card-text">Monthly Subcription for one person</p>
@@ -251,8 +214,8 @@ function Home() {
           </div>
         </div>
         <div class="col-sm-4">
-          <div class="card">
-            <div class="card-body">
+        <div class="card p-3 rounded">
+          <div class="card-body d-flex flex-column">
 	  <h5 class="card-title">Only Breakfast </h5>
               <h5 class="card-title">Weekend(2 Days)</h5>
               <p class="card-text">Monthly Subcription for one person</p>
@@ -266,8 +229,8 @@ function Home() {
           </div>
         </div>
         <div class="col-sm-4">
-            <div class="card">
-              <div class="card-body">
+        <div class="card p-3 rounded">
+          <div class="card-body d-flex flex-column">
 	  <h5 class="card-title">Only Breakfast </h5>
                 <h5 class="card-title">All Days(7 Days)</h5>
                 <p class="card-text">Monthly Subcription for one person</p>
@@ -284,8 +247,8 @@ function Home() {
 
       <div class="row">
         <div class="col-sm-4 mb-3 mb-sm-0">
-          <div class="card">
-            <div class="card-body">
+        <div class="card p-3 rounded">
+          <div class="card-body d-flex flex-column">
 	      <h5 class="card-title">Only Lunch</h5>
               <h5 class="card-title">Weekdays(5 Days) </h5>
               <p class="card-text">Monthly Subcription for one person</p>
@@ -298,9 +261,9 @@ function Home() {
             </div>
           </div>
         </div>
-        <div class="col-sm-4">
-          <div class="card">
-            <div class="card-body">
+       <div class="col-sm-4">
+        <div class="card p-3 rounded">
+          <div class="card-body d-flex flex-column">
 	  <h5 class="card-title">Only Lunch</h5>
               <h5 class="card-title">Weekend(2 Days)</h5>
               <p class="card-text">Monthly Subcription for one person</p>
@@ -314,8 +277,8 @@ function Home() {
           </div>
         </div>
         <div class="col-sm-4">
-            <div class="card">
-              <div class="card-body">
+        <div class="card p-3 rounded">
+          <div class="card-body d-flex flex-column">
 	  <h5 class="card-title">Only Lunch</h5>
                 <h5 class="card-title">All Days(7 Days)</h5>
                 <p class="card-text">Monthly Subcription for one person</p>
@@ -332,8 +295,8 @@ function Home() {
 
       <div class="row">
         <div class="col-sm-4 mb-3 mb-sm-0">
-          <div class="card">
-            <div class="card-body">
+        <div class="card p-3 rounded">
+          <div class="card-body d-flex flex-column">
 	  <h5 class="card-title">Only Dinner</h5>
               <h5 class="card-title">Weekdays(5 Days) </h5>
               <p class="card-text">Monthly Subcription for one person</p>
@@ -347,8 +310,8 @@ function Home() {
           </div>
         </div>
         <div class="col-sm-4">
-          <div class="card">
-            <div class="card-body">
+        <div class="card p-3 rounded">
+          <div class="card-body d-flex flex-column">
 	   <h5 class="card-title">Only Dinner</h5>
               <h5 class="card-title">Weekend(2 Days)</h5>
               <p class="card-text">Monthly Subcription for one person</p>
@@ -362,8 +325,8 @@ function Home() {
           </div>
         </div>
         <div class="col-sm-4">
-            <div class="card">
-              <div class="card-body">
+        <div class="card p-3 rounded">
+          <div class="card-body d-flex flex-column">
 	   	<h5 class="card-title">Only Dinner</h5>
                 <h5 class="card-title">All Days(7 Days)</h5>
                 <p class="card-text">Monthly Subcription for one person</p>
