@@ -238,97 +238,141 @@ function Home() {
         <div class="col-sm-4 mb-3 mb-sm-0">
           <div class="card">
             <div class="card-body">
+	      <h5 class="card-title">Only Breakfast </h5>
               <h5 class="card-title">Weekdays(5 Days) </h5>
               <p class="card-text">Monthly Subcription for one person</p>
-              <a href="#" class="btn btn-primary">2000 Rs.</a>
+              <p class="card-text">2000
+	  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-currency-rupee" viewBox="0 0 16 16">
+              <path d="M4 3.06h2.726c1.22 0 2.12.575 2.325 1.724H4v1.051h5.051C8.855 7.001 8 7.558 6.788 7.558H4v1.317L8.437 14h2.11L6.095 8.884h.855c2.316-.018 3.465-1.476 3.688-3.049H12V4.784h-1.345c-.08-.778-.357-1.335-.793-1.732H12V2H4z"/>
+            </svg>
+	  </p>
+	  <button class="btn btn-primary">Purchase</button>
             </div>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="card">
             <div class="card-body">
+	  <h5 class="card-title">Only Breakfast </h5>
               <h5 class="card-title">Weekend(2 Days)</h5>
               <p class="card-text">Monthly Subcription for one person</p>
-              <a href="#" class="btn btn-primary">1000 Rs.</a>
+              <p class="card-text">1000 
+	  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-currency-rupee" viewBox="0 0 16 16">
+              <path d="M4 3.06h2.726c1.22 0 2.12.575 2.325 1.724H4v1.051h5.051C8.855 7.001 8 7.558 6.788 7.558H4v1.317L8.437 14h2.11L6.095 8.884h.855c2.316-.018 3.465-1.476 3.688-3.049H12V4.784h-1.345c-.08-.778-.357-1.335-.793-1.732H12V2H4z"/>
+            </svg>
+	  </p>
+	  <button class="btn btn-primary">Purchase</button>
             </div>
           </div>
         </div>
         <div class="col-sm-4">
             <div class="card">
               <div class="card-body">
+	  <h5 class="card-title">Only Breakfast </h5>
                 <h5 class="card-title">All Days(7 Days)</h5>
                 <p class="card-text">Monthly Subcription for one person</p>
-                <a href="#" class="btn btn-primary">3000 Rs.</a>
+                <p class="card-text">3000 
+	  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-currency-rupee" viewBox="0 0 16 16">
+              <path d="M4 3.06h2.726c1.22 0 2.12.575 2.325 1.724H4v1.051h5.051C8.855 7.001 8 7.558 6.788 7.558H4v1.317L8.437 14h2.11L6.095 8.884h.855c2.316-.018 3.465-1.476 3.688-3.049H12V4.784h-1.345c-.08-.778-.357-1.335-.793-1.732H12V2H4z"/>
+            </svg>
+	  </p>
+	  <button class="btn btn-primary">Purchase</button>
               </div>
             </div>
           </div>
       </div>
 
-        </div>
-
-        <h1 class="heading"> Only <span>Lunch</span> </h1>
-        <div class="box-container">
-
       <div class="row">
         <div class="col-sm-4 mb-3 mb-sm-0">
           <div class="card">
             <div class="card-body">
+	      <h5 class="card-title">Only Lunch</h5>
               <h5 class="card-title">Weekdays(5 Days) </h5>
               <p class="card-text">Monthly Subcription for one person</p>
-              <a href="#" class="btn btn-primary">2500 Rs.</a>
+              <p class="card-text">2500 
+	  	<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-currency-rupee" viewBox="0 0 16 16">
+	          <path d="M4 3.06h2.726c1.22 0 2.12.575 2.325 1.724H4v1.051h5.051C8.855 7.001 8 7.558 6.788 7.558H4v1.317L8.437 14h2.11L6.095 8.884h.855c2.316-.018 3.465-1.476 3.688-3.049H12V4.784h-1.345c-.08-.778-.357-1.335-.793-1.732H12V2H4z"/>
+	        </svg>
+	  	</p>
+	  <button class="btn btn-primary">Purchase</button>
             </div>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="card">
             <div class="card-body">
+	  <h5 class="card-title">Only Lunch</h5>
               <h5 class="card-title">Weekend(2 Days)</h5>
               <p class="card-text">Monthly Subcription for one person</p>
-              <a href="#" class="btn btn-primary">1250 Rs.</a>
+              <p class="card-text">1250 
+	  	<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-currency-rupee" viewBox="0 0 16 16">
+              <path d="M4 3.06h2.726c1.22 0 2.12.575 2.325 1.724H4v1.051h5.051C8.855 7.001 8 7.558 6.788 7.558H4v1.317L8.437 14h2.11L6.095 8.884h.855c2.316-.018 3.465-1.476 3.688-3.049H12V4.784h-1.345c-.08-.778-.357-1.335-.793-1.732H12V2H4z"/>
+            </svg>
+	  	</p>
+	  <button class="btn btn-primary">Purchase</button>
             </div>
           </div>
         </div>
         <div class="col-sm-4">
             <div class="card">
               <div class="card-body">
+	  <h5 class="card-title">Only Lunch</h5>
                 <h5 class="card-title">All Days(7 Days)</h5>
                 <p class="card-text">Monthly Subcription for one person</p>
-                <a href="#" class="btn btn-primary">3750 Rs.</a>
+                <p class="card-text">3750 
+	  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-currency-rupee" viewBox="0 0 16 16">
+              <path d="M4 3.06h2.726c1.22 0 2.12.575 2.325 1.724H4v1.051h5.051C8.855 7.001 8 7.558 6.788 7.558H4v1.317L8.437 14h2.11L6.095 8.884h.855c2.316-.018 3.465-1.476 3.688-3.049H12V4.784h-1.345c-.08-.778-.357-1.335-.793-1.732H12V2H4z"/>
+            </svg>
+	  </p>
+	  <button class="btn btn-primary">Purchase</button>
               </div>
             </div>
           </div>
       </div>
 
-        </div>
-
-        <h1 class="heading"> Only <span>Dinner</span> </h1>
-        <div class="box-container">
-
       <div class="row">
         <div class="col-sm-4 mb-3 mb-sm-0">
           <div class="card">
             <div class="card-body">
+	  <h5 class="card-title">Only Dinner</h5>
               <h5 class="card-title">Weekdays(5 Days) </h5>
               <p class="card-text">Monthly Subcription for one person</p>
-              <a href="#" class="btn btn-primary">2000 Rs.</a>
+              <p class="card-text">2000 
+	  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-currency-rupee" viewBox="0 0 16 16">
+              <path d="M4 3.06h2.726c1.22 0 2.12.575 2.325 1.724H4v1.051h5.051C8.855 7.001 8 7.558 6.788 7.558H4v1.317L8.437 14h2.11L6.095 8.884h.855c2.316-.018 3.465-1.476 3.688-3.049H12V4.784h-1.345c-.08-.778-.357-1.335-.793-1.732H12V2H4z"/>
+            </svg>
+	  </p>
+	  <button class="btn btn-primary">Purchase</button>
             </div>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="card">
             <div class="card-body">
+	   <h5 class="card-title">Only Dinner</h5>
               <h5 class="card-title">Weekend(2 Days)</h5>
               <p class="card-text">Monthly Subcription for one person</p>
-              <a href="#" class="btn btn-primary">1000 Rs.</a>
+              <p class="card-text">1000 
+	  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-currency-rupee" viewBox="0 0 16 16">
+              <path d="M4 3.06h2.726c1.22 0 2.12.575 2.325 1.724H4v1.051h5.051C8.855 7.001 8 7.558 6.788 7.558H4v1.317L8.437 14h2.11L6.095 8.884h.855c2.316-.018 3.465-1.476 3.688-3.049H12V4.784h-1.345c-.08-.778-.357-1.335-.793-1.732H12V2H4z"/>
+            </svg>
+	  </p>
+	  <button class="btn btn-primary">Purchase</button>
             </div>
           </div>
         </div>
         <div class="col-sm-4">
             <div class="card">
               <div class="card-body">
+	   	<h5 class="card-title">Only Dinner</h5>
                 <h5 class="card-title">All Days(7 Days)</h5>
                 <p class="card-text">Monthly Subcription for one person</p>
-                <a href="#" class="btn btn-primary">3000 Rs.</a>
+                <p class="card-text">3000 
+	  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-currency-rupee" viewBox="0 0 16 16">
+              <path d="M4 3.06h2.726c1.22 0 2.12.575 2.325 1.724H4v1.051h5.051C8.855 7.001 8 7.558 6.788 7.558H4v1.317L8.437 14h2.11L6.095 8.884h.855c2.316-.018 3.465-1.476 3.688-3.049H12V4.784h-1.345c-.08-.778-.357-1.335-.793-1.732H12V2H4z"/>
+            </svg>
+	  </p>
+	  <button class="btn btn-primary">Purchase</button>
               </div>
             </div>
           </div>
