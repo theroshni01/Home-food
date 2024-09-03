@@ -244,7 +244,7 @@ function Home() {
             </div>
           </div>
       </div>
-	  </div>
+	  </div><br /><br />
 	  
 <div class="box-container">
       <div class="row">
@@ -294,7 +294,7 @@ function Home() {
             </div>
           </div>
       </div>
-	  </div>
+	  </div><br /><br />
 	  <div class="box-container">
       <div class="row">
         <div class="col-sm-4 mb-3 mb-sm-0">
