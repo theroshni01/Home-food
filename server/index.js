@@ -11,7 +11,7 @@ dotenv.config();
 const app = express();
 app.use(express.json());
 app.use(cors({
-    origin: 'http://localhost:3000', // Replace with your frontend's URL
+    origin: process.env.FRONT_URL, // Replace with your frontend's URL
     credentials: true
 }));
 
@@ -31,8 +31,10 @@ app.use(session({
     cookie: { maxAge: 24 * 60 * 60 * 1000 } // 1 day
 }));
 
-app.listen(process.env.PORT, () => {
-    console.log(`Server is running on port ${process.env.PORT}`);
+const port = process.env.PORT || 3001;
+
+app.listen(prot, () => {
+    console.log(`Server is running on port ${port}`);
 });
 
 app.post("/login", async (req, res) => {
