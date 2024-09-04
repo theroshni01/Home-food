@@ -22,6 +22,7 @@ function Navbar({ isLoggedIn, setIsLoggedIn })
     };
 
   return (
+	  <>
    <div className='nav'>
         <header class="header">
 		<a href="/" class="logo">Price Worth</a>
@@ -80,6 +81,7 @@ function Navbar({ isLoggedIn, setIsLoggedIn })
 			</div>
 	</header>
    </div>
+	</>
   )
 }
 
