@@ -81,7 +81,7 @@ function Home() {
                   <div class="card h-100">
                     <img src={curry1} class="card-img-top" alt="..." />
                     <div class="card-body">
-                      <h5 class="card-title">vegtable curry</h5>
+                      <h5 class="card-title">vegetable curry</h5>
                     </div>
                   </div>
                 </div>
